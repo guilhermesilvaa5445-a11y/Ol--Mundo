@@ -1,2 +1,4 @@
 # Olá, Mundo!
-Primeiro repósitorio para aprender a usar Git e Github
+Primeiro repósitorio
+
+Aula sobre Git e Github
