@@ -1,2 +1,2 @@
-# Olá-Mundo
-Primeiro repósitorio
+# Olá, Mundo!
+Primeiro repósitorio para aprender a usar Git e Github
